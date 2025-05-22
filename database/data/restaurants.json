@@ -1,0 +1,74 @@
+[
+ {
+   "name": "Laurel",
+   "address": "1073 Budapest, Kertész utca 29.",
+   "seats": 36,
+   "imageUrl": "img/laurel.jpg",
+   "description1": "A progresszivitásáról és lendületéről híres Kertész utcai fine dining szentély nyitása óta Mede Ádám vezetésével alkot maradandót, szezonálisan változó degusztációs menüikre jó odafigyelni. ",
+   "description2": "Ráadásul a műfajban ritkaságnak számít, de hétvégenként szűkített menüvel, már ebédidőben is kinyitnak. Mind az ebéd, mind a vacsoraidő különlegessége, hogy a hússal és hallal felvonuló klasszikus ételsor mellett vegán élmény is elérhető."
+ },
+ {
+   "name": "Sho restaurant",
+   "address": "1117 Budapest, BudaPart",
+   "seats": 32,
+   "imageUrl": "img/sho-restaurant.jpg",
+   "description1": "Egy étterem, ahol az ízek sokaságáról fogtok beszélgetni. Kár lenne pecsétet nyomni a SHO ételeinek stílusára, hiszen hazai alapanyagok keverednek egzotikus fűszerekkel, szószokkal, érzésekkel.",
+   "description2": "Táncukból pedig mindig egyedi és fantasztikus ízek születnek: itt tényleg el lehet kápráztatni a vacsorapartnert, hogy egy-egy tányéron remek harmóniát alkot sós, édes, savanyú, keserű és az a híres umami. és csapata kreálja a formabontó fogásokat."
+ },
+ {
+   "name": "St. Andrea Restaurant",
+   "address": "1052 Budapest, Váci utca 1.",
+   "seats": 22,
+   "imageUrl": "img/st-andrea-restaurant.jpg",
+   "description1": "A St. Andrea zászlóshajó étterme mellett az „égben” is üzemel egy hely, ami egész évben rendelkezésre áll.",
+   "description2": "Legyen szó tavaszi rózsaszín naplementékről, nyári balzsamos estékről, őszi szellők által formált égbolt kémleléséről vagy havas budapesti háztetők fölötti estéről, jó választás lehet a Vörösmarty tér fölötti skybar."
+ },
+ {
+   "name": "Rumour",
+   "address": "1052 Budapest, Petőfi tér 3-5.",
+   "seats": 36,
+   "imageUrl": "img/rumour.jpg",
+   "description1": "Sok várakozás előzte meg a Rumour by Rácz Jenő nyitását, végül 2021 májusában sikerült az első vendégfogadás a hírét megelőző étteremben.",
+   "description2": "Azt ígérték, gasztroszínházról lesz szó, hogy a Rumourban eltöltött vacsorák mást fognak nyújtani, mint az átlagos, hogy Rácz Jenő és csapata tényleg a szemünk előtt készíti el a degusztációs menü fogásait. Így lett: nem klasszikus asztaloknál, hanem egy hosszú pultnál foglalhatunk helyet, hála a profi és odaadó vendégül látásnak, kvázi még több figyelemmel tudják kitüntetni a vendégeket."
+ },
+ {
+   "name": "Uncensored",
+   "address": "1073 Budapest, Erzsébet krt.47-49.",
+   "seats": 30,
+   "imageUrl": "img/uncensored.jpg",
+   "description1": "Kezdjük ott, hogy lépj be egy felső kategóriás étterem gardróbjából egy másik nívós étterem vendégterébe. Már ez is felhívja a figyelmet arra, hogy valami egészen különleges következik.",
+   "description2": "Az Uncensored koncepciója, hogy kizárólag a hét bizonyos napjain tart nyitva, limitált vendéget tud fogadni, és konkrét utazásra invitál, nemcsak ízben, de audiovizuálisan is. A „titkos” étterem az étteremben érzést csak fokozza, hogy 360 fokban körbevetítik mindazt, amit a tányérokon is megjelenítenek."
+ },
+ {
+   "name": "Déryné",
+   "address": "1013 Budapest, Krisztina tér 3.",
+   "seats": 48,
+   "imageUrl": "img/deryne.jpg",
+   "description1": "Nem véletlen, hogy a Krisztina téri Déryné asztalainál már annyi világhírű előadóművész és celebritás is megfordult.",
+   "description2": "Ez a bisztró intézménnyé vált a budaiak (és akár a Bel Airből érkezők) világában, és minden apró rezdülésével egy olyan álmot követ, ami Nyugat felé jár."
+ },
+ {
+   "name": "Nobu",
+   "address": "1051 Budapest, Erzsébet tér 7-8.",
+   "seats": 60,
+   "imageUrl": "img/nobu.jpg",
+   "description1": "A NOBU egy fogalom, egy legenda, hollywoodi sztárok kedvenc étteremlánca, egy olyan ázsiai hely, ami garantálja, hogy csúcsminőséget hoz.",
+   "description2": "Megálmodói Robert De Niro színészlegenda és Nobuyuki („Nobu”) Matsuhisa séf 1994-ben nyitották meg az első egységet, a világon jelenleg 13 hotelben működik NOBU, és további 50 különálló éttermet jegyeznek."
+ },
+ {
+   "name": "Fausto's",
+   "address": "1072 Budapest, Dohány utca 5.",
+   "seats": 26,
+   "imageUrl": "img/fausto-s.jpg",
+   "description1": "Nem hivalkodik, nem marketingeli szét magát, szerényen és elhivatottan végzi a dolgát a Fausto’s 1994 óta, családi vállalkozásként, már nagy szerepet adva Fausto di Vora és felesége két felnőtt fiának.",
+   "description2": "Olasz és csúcsgasztró egyben, ez a két műfaj pedig imádni való szinergiát alkot. Hiszen ki ne bolondulna a mediterrán konyháért, a tiszta és szép alapanyagaiért, amikből mesteri tapasztalattal és tudással fantasztikus tányérokat lehet alkotni."
+ },
+ {
+   "name": "River Diva",
+   "address": "1117, Budapest, Egyetemváros A38",
+   "seats": 120,
+   "imageUrl": "img/river_diva.webp",
+   "description1": "A River Diva 2024-ben nyitotta meg kapuit a nagyközönség előtt, a koncepció pedig kívül-belül hű a hajó elnevezéséhez – a designtól a catering megoldásokon át, minden részletében elegáns, nagyvonalú és stílusos, mégis játékossággal teli. ",
+   "description2": "Itt a 50 és 100 fős vacsorák is bensőséges hangulatban telnek, miközben akár egy 600 fős eseményt is képes kényelmesen kiszolgálni. A vendégek különleges perspektívából csodálhatják meg a folyó hullámzását, a hatalmas üvegfelületeken pedig egyedi városi panoráma tárul eléjük."
+ }
+]

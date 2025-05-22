@@ -1,0 +1,29 @@
+[{
+    "restaurant_id": 1,
+    "rating": 5,
+    "review": "Ez egy exkluzív, minden igényt kielégítő étterem.",
+    "signature": "Egy üzletember, Sopronból",
+    "reviewDate": "2024-10-27"
+},
+{
+    "restaurant_id": 1,
+    "rating": 3,
+    "review": "A hal nem volt eléggé ízletes.",
+    "signature": "Nyugdíjas pár Budapestről.",
+    "reviewDate": "2024-11-04"
+},
+{
+    "restaurant_id": 1,
+    "rating": 4,
+    "review": "A vegán menü is tökéletes, csak lassú volt a kiszolgálás.",
+    "signature": "Fekete Alex vegán sportoló",
+    "reviewDate": "2024-11-19"
+},
+{
+    "restaurant_id": 1,
+    "rating": 4,
+    "review": "Kár, hogy hétköznap nem lehet itt ebédelni!",
+    "signature": "Fiatal pár, Budapestről",
+    "reviewDate": "2024-11-30"
+}
+]
