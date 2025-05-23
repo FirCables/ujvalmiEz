@@ -1,0 +1,57 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "backend_test",
+    "collectionId": "d0585a4d-daa9-4c88-93b9-25591a4ed443",
+    "dateExported": "2025-05-23T09:19:47.040Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "3ffe94fd-fbf0-4135-9d11-a1a13c499951",
+            "colId": "d0585a4d-daa9-4c88-93b9-25591a4ed443",
+            "containerId": "",
+            "name": "get all",
+            "url": "http://127.0.0.1:8000/api/restaurants",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2025-05-23T09:07:48.967Z",
+            "modified": "2025-05-23T09:09:02.244Z",
+            "headers": []
+        },
+        {
+            "_id": "c508d05c-dd9a-4e99-9b44-53245d1a6223",
+            "colId": "d0585a4d-daa9-4c88-93b9-25591a4ed443",
+            "containerId": "",
+            "name": "get by id",
+            "url": "http://127.0.0.1:8000/api/restaurants/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2025-05-23T09:09:29.336Z",
+            "modified": "2025-05-23T09:10:16.253Z",
+            "headers": []
+        },
+        {
+            "_id": "28690f61-ea6d-4ef1-8d0b-72ae887cee3e",
+            "colId": "d0585a4d-daa9-4c88-93b9-25591a4ed443",
+            "containerId": "",
+            "name": "new review",
+            "url": "http://127.0.0.1:8000/api/reviews",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2025-05-23T09:10:38.464Z",
+            "modified": "2025-05-23T09:19:07.804Z",
+            "headers": [
+                {
+                    "name": "Accept",
+                    "value": "application/json"
+                }
+            ],
+            "body": {
+                "type": "json",
+                "raw": "{\n   \"restaurant_id\": 2,\n      \"rating\": 5,\n      \"review\": \"Ez egy exkluzív, minden igényt kielégítő étterem.\",\n      \"signature\": \"Egy üzletember, Sopronból\",\n      \"reviewDate\": \"2024-10-27\"\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "izCouIHCa7AdTuPdc2ETmsbIbhu0qRFx1Jt4JhuSfUpisXsqLgWFbjSt-GWscfNFuid0lspOD_JMlfMcqw-E-g"
+}

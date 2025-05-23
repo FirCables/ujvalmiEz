@@ -13,5 +13,5 @@ class Review extends Model
 
     public $table = 'reviews';
 
-    public $fillable = ['id','restaurant_id','rating','review','signature','reviewDate'];
+  public $fillable = ['id','restaurant_id','rating','review','signature','reviewDate'];
 }
